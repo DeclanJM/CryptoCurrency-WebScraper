@@ -1,0 +1,30 @@
+Work on using nested dictionaries in another file to read and analyze each individual coin
+    Then we can math some stuff up
+    Use lots of text formatting
+    Make a clean-ish ASCII UI 
+    Present cool information    (Maybe write a script to graph in google sheets/excel)
+    Minds. *kaboom* Blown.
+
+
+Possibly store data in this format
+Dict = {
+Coin : Dict{
+    Date: [List of datetime (in order)]
+    Dollar: [List of dollar amounts (in order)]
+},
+Coin : Dict,
+}
+
+Then we can compare the change in price over a time period
+
+Or we can do it like this
+
+Dict = {
+    Coin : [Date: Dollar,]
+}
+
+
+####
+Could make the inputs more customizable.
+User input dictates the time period the data is analyzed from. Or picks the frequency of requests
+
