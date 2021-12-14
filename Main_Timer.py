@@ -64,24 +64,24 @@ def data_reader_uploader():
     for val in items:
         name = val[0]
         price = val[1]
-        print("{name}\n\tPrice:  {price}\n".format(name = name, price = price))
+        print("{name}\n\tPrice:  {price}\n".format(name = name, price = price))     #Test to make sure it is doing anything (Comment out)
         append_list_as_row(file, [name, price])
 #______________________________________________________________________________________________________________________________
 
 
-#_________________________________________
+#_________________________________________Timer function (Backbone of whole program)
 def timer_func():
-    data_reader_uploader()
+    data_reader_uploader()          ##As soon as the program starts it will upload the crypto prices at that time
     x = 1
-    now = time.time()
-    NEW_UPLOAD = 600
+    now = time.time()              ##Registers the start time
+    NEW_UPLOAD = 600                ###Timer is set in second
     timer = True
     while timer:
         print(x)
-        if time.time() - now > NEW_UPLOAD:
+        if time.time() - now > NEW_UPLOAD:          ###Waits until time is up and then runs again (Recursion)
             timer_func()
         else:
-            time.sleep(1)
+            time.sleep(1)           ##Waits and counts up 1  (Another visual to make sure it's working, can be commented out)
             x += 1
             continue
 

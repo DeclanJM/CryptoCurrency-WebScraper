@@ -54,12 +54,12 @@ for val in newl:            #####appends all values inside of the keys to a list
     for key, val in dict.items():
         f.write(str([key,val]))"""
 
-f = csv.writer(open("Dict_data.csv", "w"))          
-for key,vals in dict.items():
-    for val in vals:
-        val = val.replace(",", "")
-        #print("Val: {}".format(val))
+f = csv.writer(open("Dict_data.csv", "w"))       ###Sets up the file reader under the variable f
+for key,vals in dict.items():                   ##iterates through each item in the dict
+    for val in vals:        
+        val = val.replace(",", "")              ###Removes the , from every dollar amount so that it can be float and not str
+        #print("Val: {}".format(val))  
         val = float(val)
         #print("{}:{}".format(key,vals))
-    f.writerow([key,vals])
+    f.writerow([key,vals])              ###appends the csv file with a new row under the Coin : [List of dollar amounts] format
 
