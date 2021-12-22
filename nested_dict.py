@@ -16,8 +16,12 @@ def read_csv(file):
     return lst
 
 ###______________________________________Sets the file to be read and stored as the main crypto file
-file = "timer_file.csv"
-file = read_csv(file)
+
+
+read_file = "dad_test.csv"
+file = read_csv(read_file)
+
+
 #print(file)
 
 newl = []
@@ -34,7 +38,7 @@ for list in file:
 dict = {}
 
 for val in newl:
-    val[1] = val[1].replace("\'", "").replace("$", "").replace("\'", "")            ##Removes the '$      ' from the money
+    val[1] = val[1].replace("\'", "").replace("$", "").replace("\'", "")            ##Removes the '$     ' from the money
     dict[val[0]] = []       #Creates a list for that key's value
     """
     
@@ -54,7 +58,12 @@ for val in newl:            #####appends all values inside of the keys to a list
     for key, val in dict.items():
         f.write(str([key,val]))"""
 
-f = csv.writer(open("Dict_data.csv", "w"))       ###Sets up the file reader under the variable f
+
+
+dict_file = "dad_dict.csv"
+
+
+f = csv.writer(open(dict_file, "w"))       ###Sets up the file reader under the variable f
 for key,vals in dict.items():                   ##iterates through each item in the dict
     for val in vals:        
         val = val.replace(",", "")              ###Removes the , from every dollar amount so that it can be float and not str
@@ -63,3 +72,6 @@ for key,vals in dict.items():                   ##iterates through each item in 
         #print("{}:{}".format(key,vals))
     f.writerow([key,vals])              ###appends the csv file with a new row under the Coin : [List of dollar amounts] format
 
+#####
+### MAKE SURE TO CHANGE BOTH THE INPUT AND OUTPUT DOCUMENTS
+###

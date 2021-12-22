@@ -28,3 +28,11 @@ Dict = {
 Could make the inputs more customizable.
 User input dictates the time period the data is analyzed from. Or picks the frequency of requests
 
+
+
+
+Dict = {
+    Key : Value,
+    Key : Value,
+}
+

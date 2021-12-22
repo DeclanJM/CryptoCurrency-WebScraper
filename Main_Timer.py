@@ -4,9 +4,13 @@ import requests
 import csv
 import datetime
 import time
-#_____________________________________________________________________        CSV Functions
 
-file = "data.csv"
+
+
+file = "dad_test.csv"
+
+
+#_____________________________________________________________________        CSV Functions
 def read_csv(file):                 ####We know how to do this...    (But just in case ;)
     lst = []                        ##Create empty list
     with open(file, "r") as f:         ##Open the file in "r"ead mode (means no editing) as the value f
@@ -70,21 +74,21 @@ def data_reader_uploader():
 
 
 #_________________________________________Timer function (Backbone of whole program)
-def timer_func():
+def timer_func(timer_input):
     data_reader_uploader()          ##As soon as the program starts it will upload the crypto prices at that time
     x = 1
     now = time.time()              ##Registers the start time
-    NEW_UPLOAD = 600                ###Timer is set in second
+    NEW_UPLOAD = timer_input                ###Timer is set in second
     timer = True
     while timer:
         print(x)
         if time.time() - now > NEW_UPLOAD:          ###Waits until time is up and then runs again (Recursion)
-            timer_func()
+            timer_func(NEW_UPLOAD)
         else:
             time.sleep(1)           ##Waits and counts up 1  (Another visual to make sure it's working, can be commented out)
             x += 1
             continue
 
-file = "timer_file.csv"
 data = read_csv(file)
-timer_func()
+timer_set = int(input("How long between requests (Seconds):  "))
+timer_func(timer_set)
