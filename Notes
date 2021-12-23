@@ -1,3 +1,4 @@
+## 12/15/21
 Work on using nested dictionaries in another file to read and analyze each individual coin
     Then we can math some stuff up
     Use lots of text formatting
@@ -24,7 +25,7 @@ Dict = {
 }
 
 
-####
+#### 12/19/21
 Could make the inputs more customizable.
 User input dictates the time period the data is analyzed from. Or picks the frequency of requests
 
@@ -36,3 +37,22 @@ Dict = {
     Key : Value,
 }
 
+
+## 12/22/21
+
+Note to self: We are stupid
+Spent the last hour on a plane dealing with recursion errors in all_parts.py and realized that one small for loop and no recursion does the same thing and is way smaller
+
+The error was once it finished we got stuck in an infinite loop do to the layers of recursion
+
+
+## Finished setting up the main file
+    Details:
+        Scrapes crypto website
+        Asks user for two inputs
+            1. Time between requests (Seconds)
+            2. Amount of requests
+        Cycles through until completion
+        Uploads all data to a csv file
+        Organizes data into Dict : List format
+        
