@@ -56,3 +56,13 @@ The error was once it finished we got stuck in an infinite loop do to the layers
         Uploads all data to a csv file
         Organizes data into Dict : List format
         
+
+## 12/24/21
+    Created dict_file_analyzer.py to read the list data and return basic information about it
+    Returns and prints:
+        -Average
+        -Max
+        -Min
+        -Percent Change
+    Next plans are to fully integrate it into the Main.py and eventually have a fully operational program that works all on its own. 
+    Hopefully finish before stepping aside for a little and learning Java
