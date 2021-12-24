@@ -6,10 +6,9 @@ import datetime
 import time
 
 
-inp_file = input("Enter a filename (no .csv): ")
+inp_file = input("Enter a filename (no .csv): ")            ##Base name of the file 
 
-file = inp_file + ".csv"
-#file = "iter_test.csv"
+file = inp_file + ".csv"        ##String addition
 
 
 #_____________________________________________________________________        CSV Functions
@@ -83,72 +82,7 @@ def data_reader_uploader():
 #______________________________________________________________________________________________________________________________
 
 
-#_________________________________________Timer function (Backbone of whole program)
-def timer_func(timer_input, iteration):
-    if iteration == 0:
-        print("DONE")
-        return
-    else:
-        iter = iteration - 1
-        print("NOT DONE")
 
-    #data_reader_uploader() 
-    print("\ndata")
-    x = 1
-    now = time.time()              ##Registers the start time
-    NEW_UPLOAD = timer_input                ###Timer is set in second
-    timer = True if iter > 0 else False
-
-    if timer == False:
-        #main()
-        return
-
-    elif timer == True:
-        while timer:
-            if time.time() - now > NEW_UPLOAD:          ###Waits until time is up and then runs again (Recursion)
-                print("EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE")
-                timer_func(NEW_UPLOAD, iter)
-            else:
-                if time.time() - now < NEW_UPLOAD and not iter == 0:
-                    print(x)
-                    time.sleep(1)           ##Waits and counts up 1  (Another visual to make sure it's working, can be commented out)
-                    x += 1
-                    continue
-                elif iter == 0:
-                    break
-    #print("end")
-    """
-    elif iteration == 0:
-        quit()      ##Same \/
-        #exit()     ##Same ^
-    """    
-
-######________________________________________________________________________________________________
-
-def timer_func2(timer_input, iteration, level):
-    print("data")       #retrieve data
-    level += 1
-    print("LEVEL: {}".format(level))
-    if iteration > 0:
-        iteration -= 1
-        x = 1
-        now = time.time()              ##Registers the start time
-        NEW_UPLOAD = timer_input
-        timer = True
-        while timer:
-            if time.time() - now > NEW_UPLOAD:
-                print("RECURSION")
-                timer_func2(timer_input, iteration, level)
-            else:
-                print(x)
-                time.sleep(1)
-                x += 1
-            if level == iteration + 1:
-                print("NO MORE")
-                break
-    else:
-        return
-        
 ######________________________________________________________________________________________________          Working timer function that works with iterations
 
 def timer_func3(timer_input):
@@ -235,3 +169,5 @@ for key,vals in dict.items():                   ##iterates through each item in 
         val = float(val)
         #print("{}:{}".format(key,vals))
     f.writerow([key,vals])              ###appends the csv file with a new row under the Coin : [List of dollar amounts] format
+
+
