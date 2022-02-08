@@ -8,14 +8,14 @@ import time
 
 inp_file = input("Enter a filename (no .csv): ")            ##Base name of the file 
 
-file = inp_file + ".csv"        ##String addition
+file = inp_file + ".csv"        ##String addition to add .csv to the end of the user's input
 
 
 #_____________________________________________________________________        CSV Functions
 def read_csv(file):                 ####We know how to do this...    (But just in case ;)
     name_lst = []
     name_lst.append(file)
-    print(name_lst)
+    #print(name_lst)
     with open(file, "a+", newline = "\n") as f:
         csv_writer = csv.writer(f)
         csv_writer.writerow(name_lst)
@@ -82,7 +82,7 @@ def data_reader_uploader():
 #______________________________________________________________________________________________________________________________
 
 
-
+ 
 ######________________________________________________________________________________________________          Working timer function that works with iterations
 
 def timer_func3(timer_input):
@@ -124,6 +124,8 @@ if __name__ == "__main__":
     for num in range(total_it):
         print("Iteration #{}".format(num + 1))
         timer_func3(timer_set)
+        
+
     print("\n\nSuccessfully Completed {iter} Iterations\n\tData has been uploaded to:  '{file}'\n\tFormatted in: '{dict}'\n\n".format(iter = total_it, file = file, dict = inp_file + "_dict.csv"))
     
 ###______________________________________Sets the file to be read and stored as the main crypto file
@@ -157,7 +159,7 @@ for val in newl:            #####appends all values inside of the keys to a list
     dict[val[0]].append(val[1])
 
 
-dict_file = inp_file + "_dict.csv"
+dict_file = inp_file + "_dict.csv"      ##Creates a dictionary file by appending the value of whatever the user input + _dict.csv
 
 #f = csv.writer(open(dict_file, "a+"))
 f = read_csv(dict_file)

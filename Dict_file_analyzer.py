@@ -17,7 +17,7 @@ def read_csv(file):                 ####We know how to do this...    (But just i
     
     return lst      ##Returns the list which contains the contents of the file
 
-read_file = "30s15m.csv"                            
+read_file = "1m30m_dict.csv"      ### Change                      
 file = read_csv(read_file)
 
 """

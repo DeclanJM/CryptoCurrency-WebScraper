@@ -1,0 +1,635 @@
+aaron_test.csv
+
+
+Fri Dec 31 22:21:48 2021
+
+
+Bitcoin,"$47,245.50"
+Ethereum,"$3,740.32"
+Binance Coin,$519.11
+Tether,$1.00
+Solana,$173.64
+Cardano,$1.33
+USD Coin,$1.00
+XRP,$0.8437
+Terra,$89.42
+Polkadot,$27.31
+AvalancheAVAX,$110.12
+DogecoinDOGE,$0.17
+Shiba InuSHIB,$0.00
+PolygonMATIC,$2.58
+Binance USDBUSD,$1.00
+Crypto.com CoinCRO,$0.57
+Wrapped BitcoinWBTC,$47194.51
+UniswapUNI,$17.33
+AlgorandALGO,$1.68
+LitecoinLTC,$148.42
+TerraUSDUST,$1.00
+ChainlinkLINK,$19.86
+DaiDAI,$1.00
+NEAR ProtocolNEAR,$14.81
+Bitcoin CashBCH,$435.96
+TRONTRX,$0.08
+CosmosATOM,$33.82
+StellarXLM,$0.27
+FantomFTM,$2.38
+DecentralandMANA,$3.31
+Axie InfinityAXS,$94.47
+The SandboxSAND,$5.98
+FTX TokenFTT,$39.27
+VeChainVET,$0.08
+HederaHBAR,$0.30
+FilecoinFIL,$34.88
+Bitcoin BEP2BTCB,$46981.65
+Theta NetworkTHETA,$4.87
+ElrondEGLD,$242.48
+Internet ComputerICP,$25.20
+Ethereum ClassicETC,$34.47
+MoneroXMR,$243.12
+HeliumHNT,$39.76
+TezosXTZ,$4.60
+IOTAMIOTA,$1.36
+UNUS SED LEOLEO,$3.77
+AaveAAVE,$261.81
+KlaytnKLAY,$1.31
+GalaGALA,$0.46
+The GraphGRT,$0.65
+EOSEOS,$3.09
+PancakeSwapCAKE,$11.90
+StacksSTX,$2.25
+FlowFLOW,$8.93
+HarmonyONE,$0.24
+LoopringLRC,$2.06
+BitTorrentBTT,$0.00
+Curve DAO TokenCRV,$5.72
+KusamaKSM,$279.76
+MakerMKR,$2361.18
+Bitcoin SVBSV,$122.34
+Enjin CoinENJ,$2.61
+QuantQNT,$177.78
+ArweaveAR,$63.21
+KadenaKDA,$12.84
+eCashXEC,$0.00
+AmpAMP,$0.05
+ZcashZEC,$147.94
+CeloCELO,$5.12
+NeoNEO,$26.26
+Basic Attention TokenBAT,$1.24
+THORChainRUNE,$6.98
+KuCoin TokenKCS,$21.92
+OKBOKB,$29.24
+ChilizCHZ,$0.29
+WavesWAVES,$14.99
+Oasis NetworkROSE,$0.44
+Huobi TokenHT,$9.39
+DashDASH,$135.52
+NexoNEXO,$2.41
+TrueUSDTUSD,$1.00
+HoloHOT,$0.01
+CompoundCOMP,$200.73
+XDC NetworkXDC,$0.10
+yearn.financeYFI,$33821.79
+MinaMINA,$3.62
+SushiSwapSUSHI,$9.39
+IoTeXIOTX,$0.12
+NEMXEM,$0.12
+RavencoinRVN,$0.10
+CelsiusCEL,$4.39
+Theta FuelTFUEL,$0.20
+1inch Network1INCH,$2.44
+GnosisGNO,$536.26
+DecredDCR,$71.60
+Pax DollarUSDP,$1.00
+Immutable XIMX,$5.00
+ZilliqaZIL,$0.08
+Dogelon MarsELON,$0.00
+BORABORA,$1.02
+
+
+Fri Dec 31 22:22:00 2021
+
+
+Bitcoin,"$47,245.50"
+Ethereum,"$3,740.32"
+Binance Coin,$519.11
+Tether,$1.00
+Solana,$173.64
+Cardano,$1.33
+USD Coin,$1.00
+XRP,$0.8437
+Terra,$89.42
+Polkadot,$27.31
+AvalancheAVAX,$110.12
+DogecoinDOGE,$0.17
+Shiba InuSHIB,$0.00
+PolygonMATIC,$2.58
+Binance USDBUSD,$1.00
+Crypto.com CoinCRO,$0.57
+Wrapped BitcoinWBTC,$47194.51
+UniswapUNI,$17.33
+AlgorandALGO,$1.68
+LitecoinLTC,$148.42
+TerraUSDUST,$1.00
+ChainlinkLINK,$19.86
+DaiDAI,$1.00
+NEAR ProtocolNEAR,$14.81
+Bitcoin CashBCH,$435.96
+TRONTRX,$0.08
+CosmosATOM,$33.82
+StellarXLM,$0.27
+FantomFTM,$2.38
+DecentralandMANA,$3.31
+Axie InfinityAXS,$94.47
+The SandboxSAND,$5.98
+FTX TokenFTT,$39.27
+VeChainVET,$0.08
+HederaHBAR,$0.30
+FilecoinFIL,$34.88
+Bitcoin BEP2BTCB,$46981.65
+Theta NetworkTHETA,$4.87
+ElrondEGLD,$242.48
+Internet ComputerICP,$25.20
+Ethereum ClassicETC,$34.47
+MoneroXMR,$243.12
+HeliumHNT,$39.76
+TezosXTZ,$4.60
+IOTAMIOTA,$1.36
+UNUS SED LEOLEO,$3.77
+AaveAAVE,$261.81
+KlaytnKLAY,$1.31
+GalaGALA,$0.46
+The GraphGRT,$0.65
+EOSEOS,$3.09
+PancakeSwapCAKE,$11.90
+StacksSTX,$2.25
+FlowFLOW,$8.93
+HarmonyONE,$0.24
+LoopringLRC,$2.06
+BitTorrentBTT,$0.00
+Curve DAO TokenCRV,$5.72
+KusamaKSM,$279.76
+MakerMKR,$2361.18
+Bitcoin SVBSV,$122.34
+Enjin CoinENJ,$2.61
+QuantQNT,$177.78
+ArweaveAR,$63.21
+KadenaKDA,$12.84
+eCashXEC,$0.00
+AmpAMP,$0.05
+ZcashZEC,$147.94
+CeloCELO,$5.12
+NeoNEO,$26.26
+Basic Attention TokenBAT,$1.24
+THORChainRUNE,$6.98
+KuCoin TokenKCS,$21.92
+OKBOKB,$29.24
+ChilizCHZ,$0.29
+WavesWAVES,$14.99
+Oasis NetworkROSE,$0.44
+Huobi TokenHT,$9.39
+DashDASH,$135.52
+NexoNEXO,$2.41
+TrueUSDTUSD,$1.00
+HoloHOT,$0.01
+CompoundCOMP,$200.73
+XDC NetworkXDC,$0.10
+yearn.financeYFI,$33821.79
+MinaMINA,$3.62
+SushiSwapSUSHI,$9.39
+IoTeXIOTX,$0.12
+NEMXEM,$0.12
+RavencoinRVN,$0.10
+CelsiusCEL,$4.39
+Theta FuelTFUEL,$0.20
+1inch Network1INCH,$2.44
+GnosisGNO,$536.26
+DecredDCR,$71.60
+Pax DollarUSDP,$1.00
+Immutable XIMX,$5.00
+ZilliqaZIL,$0.08
+Dogelon MarsELON,$0.00
+BORABORA,$1.02
+
+
+Fri Dec 31 22:22:12 2021
+
+
+Bitcoin,"$47,259.70"
+Ethereum,"$3,740.97"
+Binance Coin,$518.73
+Tether,$1.00
+Solana,$173.53
+Cardano,$1.33
+USD Coin,$1.00
+XRP,$0.8442
+Terra,$89.42
+Polkadot,$27.32
+AvalancheAVAX,$110.16
+DogecoinDOGE,$0.17
+Shiba InuSHIB,$0.00
+PolygonMATIC,$2.58
+Binance USDBUSD,$1.00
+Crypto.com CoinCRO,$0.57
+Wrapped BitcoinWBTC,$47205.06
+UniswapUNI,$17.33
+AlgorandALGO,$1.68
+LitecoinLTC,$148.43
+TerraUSDUST,$1.00
+ChainlinkLINK,$19.86
+DaiDAI,$1.00
+NEAR ProtocolNEAR,$14.84
+Bitcoin CashBCH,$436.11
+TRONTRX,$0.08
+CosmosATOM,$33.70
+StellarXLM,$0.27
+FantomFTM,$2.38
+DecentralandMANA,$3.31
+Axie InfinityAXS,$94.45
+The SandboxSAND,$5.98
+FTX TokenFTT,$39.28
+VeChainVET,$0.08
+HederaHBAR,$0.30
+FilecoinFIL,$34.89
+Bitcoin BEP2BTCB,$47161.35
+Theta NetworkTHETA,$4.87
+ElrondEGLD,$242.55
+Internet ComputerICP,$25.19
+Ethereum ClassicETC,$34.48
+MoneroXMR,$243.87
+HeliumHNT,$39.74
+TezosXTZ,$4.60
+IOTAMIOTA,$1.36
+UNUS SED LEOLEO,$3.77
+AaveAAVE,$261.83
+KlaytnKLAY,$1.31
+GalaGALA,$0.46
+The GraphGRT,$0.65
+EOSEOS,$3.09
+PancakeSwapCAKE,$11.90
+StacksSTX,$2.25
+FlowFLOW,$8.93
+HarmonyONE,$0.24
+LoopringLRC,$2.06
+BitTorrentBTT,$0.00
+Curve DAO TokenCRV,$5.72
+KusamaKSM,$279.91
+MakerMKR,$2362.40
+Bitcoin SVBSV,$122.30
+Enjin CoinENJ,$2.61
+QuantQNT,$177.74
+ArweaveAR,$63.09
+eCashXEC,$0.00
+KadenaKDA,$12.82
+AmpAMP,$0.05
+ZcashZEC,$147.98
+CeloCELO,$5.11
+NeoNEO,$26.27
+Basic Attention TokenBAT,$1.23
+THORChainRUNE,$6.98
+KuCoin TokenKCS,$21.92
+OKBOKB,$29.26
+ChilizCHZ,$0.29
+WavesWAVES,$15.00
+Oasis NetworkROSE,$0.44
+Huobi TokenHT,$9.39
+DashDASH,$135.58
+NexoNEXO,$2.41
+TrueUSDTUSD,$1.00
+HoloHOT,$0.01
+CompoundCOMP,$200.80
+XDC NetworkXDC,$0.10
+yearn.financeYFI,$33754.26
+MinaMINA,$3.62
+SushiSwapSUSHI,$9.39
+IoTeXIOTX,$0.12
+NEMXEM,$0.12
+RavencoinRVN,$0.10
+CelsiusCEL,$4.38
+Theta FuelTFUEL,$0.20
+1inch Network1INCH,$2.44
+GnosisGNO,$536.25
+DecredDCR,$71.55
+Pax DollarUSDP,$1.00
+Immutable XIMX,$4.99
+ZilliqaZIL,$0.08
+Dogelon MarsELON,$0.00
+BORABORA,$1.02
+
+
+Fri Dec 31 22:22:24 2021
+
+
+Bitcoin,"$47,259.70"
+Ethereum,"$3,740.97"
+Binance Coin,$518.73
+Tether,$1.00
+Solana,$173.53
+Cardano,$1.33
+USD Coin,$1.00
+XRP,$0.8442
+Terra,$89.42
+Polkadot,$27.32
+AvalancheAVAX,$110.16
+DogecoinDOGE,$0.17
+Shiba InuSHIB,$0.00
+PolygonMATIC,$2.58
+Binance USDBUSD,$1.00
+Crypto.com CoinCRO,$0.57
+Wrapped BitcoinWBTC,$47205.06
+UniswapUNI,$17.33
+AlgorandALGO,$1.68
+LitecoinLTC,$148.43
+TerraUSDUST,$1.00
+ChainlinkLINK,$19.86
+DaiDAI,$1.00
+NEAR ProtocolNEAR,$14.84
+Bitcoin CashBCH,$436.11
+TRONTRX,$0.08
+CosmosATOM,$33.70
+StellarXLM,$0.27
+FantomFTM,$2.38
+DecentralandMANA,$3.31
+Axie InfinityAXS,$94.45
+The SandboxSAND,$5.98
+FTX TokenFTT,$39.28
+VeChainVET,$0.08
+HederaHBAR,$0.30
+FilecoinFIL,$34.89
+Bitcoin BEP2BTCB,$47161.35
+Theta NetworkTHETA,$4.87
+ElrondEGLD,$242.55
+Internet ComputerICP,$25.19
+Ethereum ClassicETC,$34.48
+MoneroXMR,$243.87
+HeliumHNT,$39.74
+TezosXTZ,$4.60
+IOTAMIOTA,$1.36
+UNUS SED LEOLEO,$3.77
+AaveAAVE,$261.83
+KlaytnKLAY,$1.31
+GalaGALA,$0.46
+The GraphGRT,$0.65
+EOSEOS,$3.09
+PancakeSwapCAKE,$11.90
+StacksSTX,$2.25
+FlowFLOW,$8.93
+HarmonyONE,$0.24
+LoopringLRC,$2.06
+BitTorrentBTT,$0.00
+Curve DAO TokenCRV,$5.72
+KusamaKSM,$279.91
+MakerMKR,$2362.40
+Bitcoin SVBSV,$122.30
+Enjin CoinENJ,$2.61
+QuantQNT,$177.74
+ArweaveAR,$63.09
+eCashXEC,$0.00
+KadenaKDA,$12.82
+AmpAMP,$0.05
+ZcashZEC,$147.98
+CeloCELO,$5.11
+NeoNEO,$26.27
+Basic Attention TokenBAT,$1.23
+THORChainRUNE,$6.98
+KuCoin TokenKCS,$21.92
+OKBOKB,$29.26
+ChilizCHZ,$0.29
+WavesWAVES,$15.00
+Oasis NetworkROSE,$0.44
+Huobi TokenHT,$9.39
+DashDASH,$135.58
+NexoNEXO,$2.41
+TrueUSDTUSD,$1.00
+HoloHOT,$0.01
+CompoundCOMP,$200.80
+XDC NetworkXDC,$0.10
+yearn.financeYFI,$33754.26
+MinaMINA,$3.62
+SushiSwapSUSHI,$9.39
+IoTeXIOTX,$0.12
+NEMXEM,$0.12
+RavencoinRVN,$0.10
+CelsiusCEL,$4.38
+Theta FuelTFUEL,$0.20
+1inch Network1INCH,$2.44
+GnosisGNO,$536.25
+DecredDCR,$71.55
+Pax DollarUSDP,$1.00
+Immutable XIMX,$4.99
+ZilliqaZIL,$0.08
+Dogelon MarsELON,$0.00
+BORABORA,$1.02
+
+
+Fri Dec 31 22:22:36 2021
+
+
+Bitcoin,"$47,245.50"
+Ethereum,"$3,740.32"
+Binance Coin,$519.11
+Tether,$1.00
+Solana,$173.64
+Cardano,$1.33
+USD Coin,$1.00
+XRP,$0.8437
+Terra,$89.42
+Polkadot,$27.31
+AvalancheAVAX,$110.12
+DogecoinDOGE,$0.17
+Shiba InuSHIB,$0.00
+PolygonMATIC,$2.58
+Binance USDBUSD,$1.00
+Crypto.com CoinCRO,$0.57
+Wrapped BitcoinWBTC,$47194.51
+UniswapUNI,$17.33
+AlgorandALGO,$1.68
+LitecoinLTC,$148.42
+TerraUSDUST,$1.00
+ChainlinkLINK,$19.86
+DaiDAI,$1.00
+NEAR ProtocolNEAR,$14.81
+Bitcoin CashBCH,$435.96
+TRONTRX,$0.08
+CosmosATOM,$33.82
+StellarXLM,$0.27
+FantomFTM,$2.38
+DecentralandMANA,$3.31
+Axie InfinityAXS,$94.47
+The SandboxSAND,$5.98
+FTX TokenFTT,$39.27
+VeChainVET,$0.08
+HederaHBAR,$0.30
+FilecoinFIL,$34.88
+Bitcoin BEP2BTCB,$46981.65
+Theta NetworkTHETA,$4.87
+ElrondEGLD,$242.48
+Internet ComputerICP,$25.20
+Ethereum ClassicETC,$34.47
+MoneroXMR,$243.12
+HeliumHNT,$39.76
+TezosXTZ,$4.60
+IOTAMIOTA,$1.36
+UNUS SED LEOLEO,$3.77
+AaveAAVE,$261.81
+KlaytnKLAY,$1.31
+GalaGALA,$0.46
+The GraphGRT,$0.65
+EOSEOS,$3.09
+PancakeSwapCAKE,$11.90
+StacksSTX,$2.25
+FlowFLOW,$8.93
+HarmonyONE,$0.24
+LoopringLRC,$2.06
+BitTorrentBTT,$0.00
+Curve DAO TokenCRV,$5.72
+KusamaKSM,$279.76
+MakerMKR,$2361.18
+Bitcoin SVBSV,$122.34
+Enjin CoinENJ,$2.61
+QuantQNT,$177.78
+ArweaveAR,$63.21
+KadenaKDA,$12.84
+eCashXEC,$0.00
+AmpAMP,$0.05
+ZcashZEC,$147.94
+CeloCELO,$5.12
+NeoNEO,$26.26
+Basic Attention TokenBAT,$1.24
+THORChainRUNE,$6.98
+KuCoin TokenKCS,$21.92
+OKBOKB,$29.24
+ChilizCHZ,$0.29
+WavesWAVES,$14.99
+Oasis NetworkROSE,$0.44
+Huobi TokenHT,$9.39
+DashDASH,$135.52
+NexoNEXO,$2.41
+TrueUSDTUSD,$1.00
+HoloHOT,$0.01
+CompoundCOMP,$200.73
+XDC NetworkXDC,$0.10
+yearn.financeYFI,$33821.79
+MinaMINA,$3.62
+SushiSwapSUSHI,$9.39
+IoTeXIOTX,$0.12
+NEMXEM,$0.12
+RavencoinRVN,$0.10
+CelsiusCEL,$4.39
+Theta FuelTFUEL,$0.20
+1inch Network1INCH,$2.44
+GnosisGNO,$536.26
+DecredDCR,$71.60
+Pax DollarUSDP,$1.00
+Immutable XIMX,$5.00
+ZilliqaZIL,$0.08
+Dogelon MarsELON,$0.00
+BORABORA,$1.02
+
+
+Fri Dec 31 22:22:48 2021
+
+
+Bitcoin,"$47,259.70"
+Ethereum,"$3,740.97"
+Binance Coin,$518.73
+Tether,$1.00
+Solana,$173.53
+Cardano,$1.33
+USD Coin,$1.00
+XRP,$0.8442
+Terra,$89.42
+Polkadot,$27.32
+AvalancheAVAX,$110.16
+DogecoinDOGE,$0.17
+Shiba InuSHIB,$0.00
+PolygonMATIC,$2.58
+Binance USDBUSD,$1.00
+Crypto.com CoinCRO,$0.57
+Wrapped BitcoinWBTC,$47205.06
+UniswapUNI,$17.33
+AlgorandALGO,$1.68
+LitecoinLTC,$148.43
+TerraUSDUST,$1.00
+ChainlinkLINK,$19.86
+DaiDAI,$1.00
+NEAR ProtocolNEAR,$14.84
+Bitcoin CashBCH,$436.11
+TRONTRX,$0.08
+CosmosATOM,$33.70
+StellarXLM,$0.27
+FantomFTM,$2.38
+DecentralandMANA,$3.31
+Axie InfinityAXS,$94.45
+The SandboxSAND,$5.98
+FTX TokenFTT,$39.28
+VeChainVET,$0.08
+HederaHBAR,$0.30
+FilecoinFIL,$34.89
+Bitcoin BEP2BTCB,$47161.35
+Theta NetworkTHETA,$4.87
+ElrondEGLD,$242.55
+Internet ComputerICP,$25.19
+Ethereum ClassicETC,$34.48
+MoneroXMR,$243.87
+HeliumHNT,$39.74
+TezosXTZ,$4.60
+IOTAMIOTA,$1.36
+UNUS SED LEOLEO,$3.77
+AaveAAVE,$261.83
+KlaytnKLAY,$1.31
+GalaGALA,$0.46
+The GraphGRT,$0.65
+EOSEOS,$3.09
+PancakeSwapCAKE,$11.90
+StacksSTX,$2.25
+FlowFLOW,$8.93
+HarmonyONE,$0.24
+LoopringLRC,$2.06
+BitTorrentBTT,$0.00
+Curve DAO TokenCRV,$5.72
+KusamaKSM,$279.91
+MakerMKR,$2362.40
+Bitcoin SVBSV,$122.30
+Enjin CoinENJ,$2.61
+QuantQNT,$177.74
+ArweaveAR,$63.09
+eCashXEC,$0.00
+KadenaKDA,$12.82
+AmpAMP,$0.05
+ZcashZEC,$147.98
+CeloCELO,$5.11
+NeoNEO,$26.27
+Basic Attention TokenBAT,$1.23
+THORChainRUNE,$6.98
+KuCoin TokenKCS,$21.92
+OKBOKB,$29.26
+ChilizCHZ,$0.29
+WavesWAVES,$15.00
+Oasis NetworkROSE,$0.44
+Huobi TokenHT,$9.39
+DashDASH,$135.58
+NexoNEXO,$2.41
+TrueUSDTUSD,$1.00
+HoloHOT,$0.01
+CompoundCOMP,$200.80
+XDC NetworkXDC,$0.10
+yearn.financeYFI,$33754.26
+MinaMINA,$3.62
+SushiSwapSUSHI,$9.39
+IoTeXIOTX,$0.12
+NEMXEM,$0.12
+RavencoinRVN,$0.10
+CelsiusCEL,$4.38
+Theta FuelTFUEL,$0.20
+1inch Network1INCH,$2.44
+GnosisGNO,$536.25
+DecredDCR,$71.55
+Pax DollarUSDP,$1.00
+Immutable XIMX,$4.99
+ZilliqaZIL,$0.08
+Dogelon MarsELON,$0.00
+BORABORA,$1.02
+aaron_test.csv
+aaron_test.csv
+aaron_test.csv
+aaron_test.csv
